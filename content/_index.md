@@ -8,3 +8,8 @@ Hola ✌️  soy el explorer **Eddivaldo** y este es mi blog personal donde comp
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀
+
+Cosas que deseo aprender de este módulo complementandolo con los recursos de Internet:
+Linux.
+Git y GitHub.
+Aprender a diseñar aplicaciones de Backend.
